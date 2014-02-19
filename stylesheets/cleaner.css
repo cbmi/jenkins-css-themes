@@ -7,7 +7,7 @@ a, a:visited, a:active, a:hover, a:link {
 }
 
 #top-panel {
-   background-image: url(../images/body-bg.png) ;
+   background-image: none ;
    background: black;
 }
 
